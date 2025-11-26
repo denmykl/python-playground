@@ -12,8 +12,10 @@ python filename.py
 
 ## Contents
 
+November: 
+
 - `hello.py` — a simple script that prints "Hello, World!"
-- 
+- `password_generator.py` - a simple password generator using the `random` module
 - 
 
 ## Contact
