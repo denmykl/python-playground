@@ -16,7 +16,7 @@ November:
 
 - `hello.py` — a simple script that prints "Hello, World!"
 - `password_generator.py` - a simple password generator using the `random` module
-- 
+- `string_reverse.py` - reverses the line
 
 ## Contact
 
