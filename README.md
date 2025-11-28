@@ -19,6 +19,7 @@ November:
 - `string_reverse.py` - reverses the line
 - `tip_calculator.py` - a simple tip calculator
 - `coin_flipper.py` - a program that plays coin flipper with the user
+- `rps_game.py` - a simple game with ascii-arts and `random` module
 
 ## Contact
 
