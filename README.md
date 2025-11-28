@@ -18,6 +18,7 @@ November:
 - `password_generator.py` - a simple password generator using the `random` module
 - `string_reverse.py` - reverses the line
 - `tip_calculator.py` - a simple tip calculator
+- `coin_flipper.py` - a program that plays coin flipper with the user
 
 ## Contact
 
