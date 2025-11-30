@@ -14,8 +14,8 @@ python filename.py
 
 November: 
 
-- `hello.py` — a simple script that prints "Hello, World!"
 - `password_generator.py` - a simple password generator using the `random` module
+- `password_generator_v2.py` - a simple password generator using the `random` module v2
 - `string_reverse.py` - reverses the line
 - `tip_calculator.py` - a simple tip calculator
 - `coin_flipper.py` - a program that plays coin flipper with the user
